@@ -1,0 +1,6 @@
+
+{
+  "name": "Little Lemon Table Booking",
+  "description": "A responsive and accessible web application for booking a table at the Little Lemon restaurant. This app features a booking form with validation and a confirmation page, built with React and TypeScript.",
+  "requestFramePermissions": []
+}
