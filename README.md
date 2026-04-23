@@ -20,7 +20,7 @@ Make sure you have Node.js installed on your machine (version 16 or higher recom
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mohamedsolaiman/little-lemon-table-booking
    cd little-lemon-table-booking
    ```
 
